@@ -9,3 +9,11 @@ agile
 -good for individual work where requirements are known
 -flexible to change
 -historically successful
+
+
+--Alvin--
+1)
+
+2)
+
+3)
