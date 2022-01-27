@@ -1,0 +1,11 @@
+--Luis--
+Q1:
+website? application?
+-html is easy to work with, the group has little experience with it
+-for both options, the group has little knowledge of fetching/storing data from a database
+
+Q2:
+agile
+-good for individual work where requirements are known
+-flexible to change
+-historically successful
