@@ -21,10 +21,9 @@ agile
 
 --Jordan--
 1.
-One initial thought concerning the project is the fact that this project is going to require the use of a database of somekind to store all the users, data, etc for the application. Perhaps this will need two different databases, namely one for all the users, and another for the users' information  
 
 2.
-
+Agile methodology will likely be the development we use becasue it allows us to quickly and effectiviely develop and test our application in a collabrate manner. 
 
 3.
-
+One high-level design and architecture our solution concerning the project is the fact that this project is going to likely require the use of a database of somekind to store all the users, data, etc for the application. Perhaps this will need two different databases, namely one for all the users, and another for the users' information. Another being that each of major components to this project, namely login, quote history, fuel quote, and profile are likely going to be there own self contained components / objects within the project, with the ability for them to interact with one another when necessary. 
