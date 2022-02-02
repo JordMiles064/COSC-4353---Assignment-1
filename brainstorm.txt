@@ -21,7 +21,7 @@ agile
 
 --Jordan--
 1.
-
+One initial thought concerning the project is the fact that this project is going to require the use of a database of somekind to store all the users, data, etc for the application. Perhaps this will need two different databases, namely one for all the users, and another for the users' information  
 
 2.
 
